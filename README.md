@@ -45,5 +45,7 @@ You will get a PCDmmyy.iso CD-ROM image.
 
 Mount the .iso file.
 
-cd PHOTO_CD/IMAGE/
-./convert_kodak_photocd.sh
+<code>
+cd PHOTO_CD/IMAGE/ ;
+./convert_PCDs.sh
+</code>
